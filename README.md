@@ -6,6 +6,7 @@ To costumize:
 - Update values in cheerio function
 
 Technologies
-Express.js
-Cheerio
-Axios
+
+- Express.js
+- Cheerio
+- Axios
