@@ -17,6 +17,7 @@ axios(url) // data retrieval
       const title = x(this).text();
       const url = x(this).find("a").attr("href");
       articles.push({ title, url });
+      // perhaps add a way to return the info?
     });
     console.log(articles);
   })
